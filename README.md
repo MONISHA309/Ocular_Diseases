@@ -23,8 +23,13 @@ This shows that data augmentation significantly improved the model's performance
 
 ## How to Use
   Prepare Data: Organize images into class folders. Apply augmentation if needed.
+  
   Load Model: Use the InceptionResNetV2 model with pre-trained weights.
+  
   Train Model: Fine-tune using the augmented dataset.
+  
   Predict: Use the trained model to classify new images.
+  
   Evaluate: Check performance using accuracy, precision, recall, and F1-score.
+
 This model can be used for various real-world image recognition applications.
